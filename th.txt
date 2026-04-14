@@ -12,3 +12,10 @@ types of operators
 2.assignment operators:+=,-=,*=,/=,%=
 3.comparison operators:<,>,>=,<=,==,!=
 4.logical operators: && --and ,|| -- or,!- not
+
+conditional statement
+
+if 
+if else
+nested if else
+ladder is else 
