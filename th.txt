@@ -19,3 +19,12 @@ if
 if else
 nested if else
 ladder is else 
+
+switch case:
+syntax:
+switch(expression)
+{
+case::
+    // code to be executed if expression == constant1
+    break;
+}

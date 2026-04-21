@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int sp,cp;
+    cout<<"enter the selling price:";
+    cin>>sp;
+    cout<<"enter the cost price:";
+    cin>>cp;
+    if(sp>cp)
+    {
+        cout<<"you have profit";
+    }
+    else 
+    {
+        cout<<"you have loss";
+    }
+}
